@@ -1,0 +1,2 @@
+# CSCI1000
+CSCI 1000 GitHub Project
